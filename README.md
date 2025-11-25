@@ -86,12 +86,12 @@ crypto_db
 
 cryptoapi/
 │
-├── app.py                   → Main Streamlit application (MySQL version)
-├── appdeploy.py             → Streamlit SQLite deployment version
-├── liveapicrypto.ipynb      → Jupyter notebook for analysis
-├── liveapidash.pbix         → Power BI dashboard
-├── requirements.txt         → Dependencies for Streamlit Cloud
-└── README.md                → Project documentation
+├── app.py                     → Main Streamlit application (MySQL version)
+├── appdeploy.py               → SQLite deployment version
+├── liveapicrypto.ipynb        → Jupyter notebook for crypto analysis
+├── liveapidash.pbix           → Power BI dashboard
+├── requirements.txt           → Dependencies for Streamlit Cloud
+└── README.md                  → Project documentation
 
 
 
