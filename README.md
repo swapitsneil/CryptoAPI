@@ -18,9 +18,9 @@ Stay updated with the crypto market in a clean and beautifully designed dashboar
 
 ## 🖼️ Dashboard Preview
 
-<img width="1676" height="934" alt="Image" src="https://github.com/user-attachments/assets/3df42e2b-b5aa-46cd-84e6-5ef61e1263c7" />
-
 ![Image](https://github.com/user-attachments/assets/de81eb46-b398-4123-bb23-94a5a7509b54)
+
+<img width="1676" height="934" alt="Image" src="https://github.com/user-attachments/assets/3df42e2b-b5aa-46cd-84e6-5ef61e1263c7" />
 
 <img width="1470" height="1324" alt="Image" src="https://github.com/user-attachments/assets/e34bdc64-73a9-4c74-a97a-580c7558629e" />
 
@@ -79,7 +79,7 @@ crypto_db
 
 📂 cryptoapi
 │── app.py
-│── requirements.txt
+│── liveapidash.pbix
 │── liveapicrypto.ipynb
 │── README.md
 
