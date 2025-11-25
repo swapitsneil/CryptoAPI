@@ -78,10 +78,12 @@ crypto_db
 ## 📁 Project Structure
 
 📂 cryptoapi
-│── app.py
-│── liveapidash.pbix
-│── liveapicrypto.ipynb
-│── README.md
+    │── app.py
+    │── liveapidash.pbix
+    │── liveapicrypto.ipynb
+    │── appdeploy.py      (sqlite version)
+    │── requirements.txt
+    │── README.md
 
 ## ⭐ Why This Project Stands Out
 
