@@ -51,6 +51,9 @@ Stay updated with the crypto market in a clean and beautifully designed dashboar
 ### 3️⃣ Run the Streamlit App
     streamlit run app.py
 
+
+streamlit link - https://appdeploypy-wvt9bjqbrn2j9war4zu2ea.streamlit.app/    
+
 ##📡 How It Works
 
 🔄 Live Data Fetching
