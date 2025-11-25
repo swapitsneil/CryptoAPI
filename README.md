@@ -84,6 +84,7 @@ crypto_db
 
 ## 📁 Project Structure
 
+```
 cryptoapi/
 │
 ├── app.py                     → Main Streamlit application (MySQL version)
@@ -92,6 +93,7 @@ cryptoapi/
 ├── liveapidash.pbix           → Power BI dashboard
 ├── requirements.txt           → Dependencies for Streamlit Cloud
 └── README.md                  → Project documentation
+```
 
 
 
