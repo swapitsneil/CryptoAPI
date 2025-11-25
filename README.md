@@ -17,8 +17,11 @@ Stay updated with the crypto market in a clean and beautifully designed dashboar
 ✔ Clean, modern UI using Streamlit
 
 ## 🖼️ Dashboard Preview
-
+MySQL
 ![Image](https://github.com/user-attachments/assets/de81eb46-b398-4123-bb23-94a5a7509b54)
+
+SQlite
+![Image](https://github.com/user-attachments/assets/d3c91a63-5556-4d03-b1e1-55a307b7182f)
 
 <img width="1676" height="934" alt="Image" src="https://github.com/user-attachments/assets/3df42e2b-b5aa-46cd-84e6-5ef61e1263c7" />
 
