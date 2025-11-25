@@ -81,14 +81,15 @@ crypto_db
 
 ## 📁 Project Structure
 
-📁 cryptoapi
+cryptoapi
 │
-├── app.py                   # main streamlit application (mysql version)
-├── appdeploy.py             # sqlite deployment version
-├── liveapicrypto.ipynb      # jupyter notebook for crypto analysis
-├── liveapidash.pbix         # power bi dashboard
-├── requirements.txt         # dependencies for streamlit cloud
-└── README.md                # project documentation
+├── app.py                     # main streamlit application (mysql version)
+├── appdeploy.py               # sqlite deployment version
+├── liveapicrypto.ipynb        # jupyter notebook for crypto analysis
+├── liveapidash.pbix           # power bi dashboard
+├── requirements.txt           # dependencies for streamlit cloud
+└── README.md                  # project documentation
+
 
 ## ⭐ Why This Project Stands Out
 
