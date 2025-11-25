@@ -1,6 +1,6 @@
 # 🚀 CryptoAPI – Live Cryptocurrency Dashboard
 
-A real-time crypto tracking dashboard built with Streamlit, CoinGecko API, and SQLite.
+A real-time crypto tracking dashboard built with Streamlit, CoinGecko API, and MYSQL.
 This project fetches live cryptocurrency prices, 24h changes, market caps, and visualizes them using interactive charts and auto-refreshing metrics.
 
 Stay updated with the crypto market in a clean and beautifully designed dashboard.
