@@ -5,7 +5,7 @@ This project fetches live cryptocurrency prices, 24h changes, market caps, and v
 
 Stay updated with the crypto market in a clean and beautifully designed dashboard.
 
-##⚡ Key Features
+## ⚡ Key Features
 
 ✔ Live Price Fetching (CoinGecko API)
 ✔ Auto-Refreshing Dashboard (every 60 seconds)
