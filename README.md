@@ -81,7 +81,7 @@ crypto_db
 
 ## 📁 Project Structure
 
-cryptoapi
+cryptoapi\
 │
 ├── app.py                     # main streamlit application (mysql version)
 ├── appdeploy.py               # sqlite deployment version
